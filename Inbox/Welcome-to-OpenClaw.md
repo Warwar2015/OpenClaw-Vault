@@ -1,5 +1,5 @@
 ---
-tags: [welcome, openclaw]
+tags:
 created: $(date -Iseconds)
 ---
 
