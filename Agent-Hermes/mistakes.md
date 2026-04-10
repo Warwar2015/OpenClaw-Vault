@@ -14,3 +14,8 @@ updated: $(date -Iseconds)
 - **What happened**: 
 - **Why**: 
 - **How to avoid**: 
+
+## 2026-04-10 - 16:03:03
+- **What happened**: Забыл запустить new-session перед работой
+- **Why**: Не следовал протоколу
+- **How to avoid**: Всегда начинать сессию с new-session
