@@ -32,3 +32,6 @@ date: 2026-04-11
 
 ## 11:42:48
 [misha] Python бот работает
+
+## 11:47:15
+[misha] Инструкция: При команде 'Запомни: текст' — всегда выполнять /opt/openclaw-scripts/agent-memory-wrapper.sh remember через exec. Без exec запись не сохранится.
